@@ -5,8 +5,6 @@
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 </p>
 
-![Profile views]([https://gpvc.arturio.dev/amitkumarshaw393](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcompanieslogo.com%2Fcapgemini%2Flogo%2F&psig=AOvVaw2f4S9hMhnF1Ajp56nV4cDr&ust=1704971614467000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCLCPurbY0oMDFQAAAAAdAAAAABAE)) 
-
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
@@ -14,10 +12,10 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and ES6.
-- 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
-- 👯 I’m looking to collaborate on Web Dev Projects.
-- 🤔 I’m looking for help with React.
+- 🌱 I’m currently learning new technology.
+- 💼 I’m a Bachelor's degree in Mechanical Engineering.
+- 👯 I’m  collaborate on FullStack Projects.
+- 🤔 I’m looking for Devops.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [shawamit393@gmail.com](mailto:shawamit393@gmail.com).
 
